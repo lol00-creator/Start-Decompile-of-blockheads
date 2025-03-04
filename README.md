@@ -33,7 +33,6 @@ This repository is a community-driven effort to decompile and document the sourc
    Set up your environment (see docs/SETUP.md).
 
     Build and explore the code using your preferred IDE.
-    Note: This repo does not include original game assets. You must obtain these from a legally purchased copy of The Blockheads.
 
    🤝 Contributing
 
@@ -48,7 +47,6 @@ Beginner-friendly tasks: Labeled with good first issue. Perfect for newcomers!
 
     Code: MIT License (see LICENSE).
 
-    Assets: Original game assets (images, sounds, etc.) remain copyrighted by Majic Jungle Software. Do not distribute them here.
 
 🙏 Acknowledgments
 
@@ -59,12 +57,6 @@ Beginner-friendly tasks: Labeled with good first issue. Perfect for newcomers!
     Majic Jungle Software for creating this beloved game.
 
 ❓ FAQ
-
-Q: Is this legal?
-A: Yes, as long as you only use the code for educational/modding purposes and don’t redistribute copyrighted assets.
-
-Q: Do I need the original game to contribute?
-A: Yes, you’ll need it to extract assets and verify decompilation accuracy.
 
 Q: Will this support multiplayer?
 A: Not initially. Reversing the server code is a long-term goal.
